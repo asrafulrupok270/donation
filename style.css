@@ -1,0 +1,192 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0 ;
+    padding: 0%;
+    height: 100%;
+    border: 1px solid black;
+}
+.first-section{
+  
+  background-image:  url(donate-today-main/images/donation13.jpg);
+    background-repeat: no-repeat;
+ height: 550px;
+ background-position: center;
+ 
+ background-size: cover;
+ margin-bottom: 120px;
+ 
+
+    
+}
+ 
+.first-title h1{
+    font-size: 50px;
+    text-align: center;
+    padding-top:190px;
+    text-transform: capitalize;
+    font-weight: 900;
+    
+    color:    rgb(244, 244, 7);
+    
+}
+.first-title p{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-weight: 900;
+  
+    
+    margin:  18px 30px;
+    
+ color:  white;
+ }
+ .btn{
+    text-align: center;
+  
+    
+ }
+ .btn button{
+  
+    text-transform: capitalize;
+    margin: 20px 35px;
+    padding: 15px 28px;
+    border-radius: 9px;
+    background-color:rgb(226, 57, 57);
+    color: white;
+    border: 0.5px solid rgb(226, 57, 57) ;
+ }
+ .second-section{
+    margin-top: 10px;
+    margin-bottom: 120px;
+ }
+ .second-title h1{
+    font-size: 35px;
+    font-weight: 900;
+    text-align: center;
+    text-transform: capitalize;
+ }
+ .second-title p{
+    text-align: center;
+    font-weight: 700;
+
+    
+ }
+ .taka{
+    display: flex;
+    justify-content: center;
+  padding: 20px;
+   
+ }
+ .taka h1{
+    font-weight: 700;
+    color: gray;
+    font-size: 35px;
+    padding: 20px;
+     box-shadow: 2px 3px 3px 2px aliceblue;
+   
+    
+   
+ }
+ .taka span{
+    border: 1.5px solid salmon;
+    color:red;
+    background-color:rgb(243, 195, 190);
+   border-radius: 5px;
+    padding: 15px 18px;
+ }
+ .input-amount{
+    text-align: center;
+    
+ }
+ .input-amount input{
+    margin: 25px 35px;
+    padding: 17px 26px;
+    text-transform: capitalize;
+ }
+ .our-plan{
+    display: flex;
+ }
+.third-title h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 35px;
+}
+.third-title p{
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 100px;
+}
+.demand{
+    box-shadow: 10px 12px 8px 12px gainsboro;
+   padding: 20px;
+   margin: 25px;
+}
+#food{
+    background-color: aquamarine;
+}
+#shelter{
+    background-color: plum;
+}
+#education{
+    background-color: darkkhaki;
+}
+.third-section{
+    margin-bottom: 120px;
+}
+.fourth-section{
+    margin-bottom: 120px;
+    padding-bottom: 50px;
+}
+.fourth-title h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 30px;
+}
+.fourth-title p{
+    text-align: center;
+    text-transform: capitalize;
+  
+}
+.input-email{
+    text-align: center;
+ 
+     
+}
+.input-email input{
+    background-color: rgb(187, 175, 175);
+    color: black;
+    width: 30%;
+    height: 40px;
+    border-radius: 10px;
+    border: .5px solid  rgb(187, 175, 17);
+    text-align: center;
+ 
+}
+.input-email button{
+    background-color: salmon;
+   width: 15%;
+   height: 47px;
+   border-radius: 10px;
+   color: white;
+   border: .5px solid salmon;
+   text-transform: capitalize;
+ 
+}
+footer h2{
+    text-align: center;
+    text-transform: capitalize;
+    font-style: italic;
+    color: tomato;
+}
+footer h6{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+footer{
+    background-color: black;
+    padding-bottom:50px ;
+   padding-top: 20px;
+}
+ 
