@@ -3,7 +3,7 @@ body{
     margin:0 ;
     padding: 0%;
     height: 100%;
-    border: 1px solid black;
+   
 }
 .first-section{
   
@@ -15,7 +15,7 @@ body{
  background-size: cover;
  
  margin-bottom: 120px;
- 
+ padding: 20px;
 
     
 }
@@ -115,7 +115,7 @@ body{
 .third-title p{
     text-align: center;
     text-transform: capitalize;
-    margin-bottom: 100px;
+    margin-bottom: 60px;
 }
 .demand{
     box-shadow: 10px 12px 8px 12px gainsboro;
@@ -136,8 +136,12 @@ body{
 }
 .fourth-section{
     padding: 150px;
-  
+  background-image: url(/donate-today-main/images/top-banner.png);
+   
+  background-repeat: no-repeat;
     height: 250px;
+  ;
+    margin-bottom: 50px;
 }
 .fourth-title h1{
     text-align: center;
@@ -197,5 +201,49 @@ footer{
     background-color: black;
     padding-bottom:50px ;
    padding-top: 20px;
+}
+.section-five{
+    display: flex;
+    text-transform: capitalize;
+    padding-left: 50px; 
+    height: 500px;
+   
+}
+    
+
+.section-five img{
+    width: 80%;
+    text-align: right;
+    margin-bottom: 120px;
+    
+}
+.title-five h2{
+    text-transform: capitalize;
+    
+    font-size: 35px;
+}
+.title-five p{
+    text-transform: capitalize;
+  
+}
+.title-five button{
+    text-transform: capitalize;
+    font-size:bold;
+    font-weight: 700;
+    
+    padding: 15px 28px;
+    border-radius: 9px;
+    background-color:rgb(226, 57, 57);
+    color: white;
+    border: 0.5px solid rgb(226, 57, 57) ;
+ 
+}
+.title-five{
+    margin-right: 30px;
+}
+.img{
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 80%;
 }
  
