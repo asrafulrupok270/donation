@@ -107,7 +107,9 @@ body{
  }
  .our-plan{
     display: flex;
+  
  }
+
 .third-title h1{
     text-align: center;
     text-transform: capitalize;
@@ -120,14 +122,17 @@ body{
 }
 .demand{
     box-shadow: 10px 12px 8px 12px gainsboro;
-   padding: 20px;
-   margin: 25px;
+    padding: 20px;
+    margin: 25px;
+   text-transform: capitalize;
+   border-radius: 10px;
 }
 #food{
     background-color: aquamarine;
 }
 #shelter{
     background-color: plum;
+   
 }
 #education{
     background-color: darkkhaki;
